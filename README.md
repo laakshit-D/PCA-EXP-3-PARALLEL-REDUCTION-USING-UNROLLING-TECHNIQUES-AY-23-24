@@ -1,5 +1,4 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
-<h3>AIM:To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using nvprof.
 <h3> NAME: LAAKSHIT D
 <h3> REGISTER NO:212222230071
 <h3>EX. NO:3
